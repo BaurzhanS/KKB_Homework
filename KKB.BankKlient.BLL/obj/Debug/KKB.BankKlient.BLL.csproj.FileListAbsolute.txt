@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\KKB.BankKlient.BLL3\KKB.BankKlient.BLL\bin\Debug\KKB.BankKlient.BLL.dll
+C:\Users\User\Source\Repos\KKB.BankKlient.BLL3\KKB.BankKlient.BLL\bin\Debug\KKB.BankKlient.BLL.pdb
+C:\Users\User\Source\Repos\KKB.BankKlient.BLL3\KKB.BankKlient.BLL\bin\Debug\LiteDB.dll
+C:\Users\User\Source\Repos\KKB.BankKlient.BLL3\KKB.BankKlient.BLL\bin\Debug\NLog.dll
+C:\Users\User\Source\Repos\KKB.BankKlient.BLL3\KKB.BankKlient.BLL\bin\Debug\LiteDB.xml
+C:\Users\User\Source\Repos\KKB.BankKlient.BLL3\KKB.BankKlient.BLL\bin\Debug\NLog.xml
+C:\Users\User\Source\Repos\KKB.BankKlient.BLL3\KKB.BankKlient.BLL\obj\Debug\KKB.BankKlient.BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\KKB.BankKlient.BLL3\KKB.BankKlient.BLL\obj\Debug\KKB.BankKlient.BLL.csproj.CopyComplete
+C:\Users\User\Source\Repos\KKB.BankKlient.BLL3\KKB.BankKlient.BLL\obj\Debug\KKB.BankKlient.BLL.dll
+C:\Users\User\Source\Repos\KKB.BankKlient.BLL3\KKB.BankKlient.BLL\obj\Debug\KKB.BankKlient.BLL.pdb
+C:\Users\User\source\repos\KKB.BankKlient.BLL3\KKB.BankKlient.BLL\obj\Debug\KKB.BankKlient.BLL.csprojAssemblyReference.cache
